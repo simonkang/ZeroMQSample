@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{B9C3AD21-636B-4141-8499-842C5DAB016E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZeroMQClient", "ZeroMQClient\ZeroMQClient.csproj", "{8F740E71-8794-46A7-9E8E-8A3C4859BBFF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZeroMQClient", "src\ZeroMQClient\ZeroMQClient.csproj", "{8F740E71-8794-46A7-9E8E-8A3C4859BBFF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZeroMQServer", "ZeroMQServer\ZeroMQServer.csproj", "{327D2FAA-AB3E-4924-A85E-859F50B9202F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZeroMQServer", "src\ZeroMQServer\ZeroMQServer.csproj", "{327D2FAA-AB3E-4924-A85E-859F50B9202F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZeroMQSubscriber", "ZeroMQSubscriber\ZeroMQSubscriber.csproj", "{5B3B3B38-7CC9-42E3-B5DE-6DD4633E9950}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZeroMQSubscriber", "src\ZeroMQSubscriber\ZeroMQSubscriber.csproj", "{5B3B3B38-7CC9-42E3-B5DE-6DD4633E9950}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{1B430CFB-21B0-4F2D-B5B1-A15154EF3DE9}"
 	ProjectSection(SolutionItems) = preProject
